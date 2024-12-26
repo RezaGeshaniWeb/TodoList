@@ -3,7 +3,7 @@
 ![Alt text](https://github.com/user-attachments/assets/8c892608-e6d0-4191-b6a3-647ab6549327)
 
 
-![Alt text]![3](https://github.com/user-attachments/assets/8c882973-6745-4d90-9913-e44f9a0f5510)
+![Alt text](https://github.com/user-attachments/assets/8c882973-6745-4d90-9913-e44f9a0f5510)
 
 
 - [Online Demo](https://rezageshaniweb.github.io/TodoList/)
